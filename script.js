@@ -7,4 +7,5 @@ function getWeather() {
         alert('Please enter a city')
         return;
     }
+    
 }
